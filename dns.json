@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "mythree123.mohansyn2004.tk",
+        "Name": "dvkapp.testcandl06.club",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
